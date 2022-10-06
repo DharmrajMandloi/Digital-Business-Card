@@ -1,0 +1,126 @@
+
+body {
+    background: #23252C;
+    text-align: center;
+}
+
+.profile {
+    width: 317px;
+    height: 317px;
+    margin-bottom: 0px;
+}
+
+.Name {
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: -3px;
+    padding-top: 8px;
+}
+
+.Role {
+    margin-top: 0;
+    color:#F3BF99;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    text-align: center;
+}
+
+.Main {
+    margin-left: auto;
+    margin-right: auto;
+    background: #1A1B21;
+    width: 317px;
+    height: 400px;
+}
+
+.Btns {
+    display: flex;
+    justify-content: center;
+}
+
+.mail {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 17px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-sizing: border-box;
+    padding: 9px 13px 9px 11px;
+    border-radius: 6px;
+}
+
+.linkedin {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: #5093E2;
+    padding: 9px 13px 9px 11px;
+    border-radius: 6px;
+    margin-left: 17px;
+}
+
+.mail-icon {
+    width: 16px;
+    height: 16px;
+    padding-right: 8px;
+}
+
+.linkedin-icon {
+    width: 16px;
+    height: 16px;
+    padding-right: 8px;
+}
+
+.content {
+    margin-top: 33px;
+    color: white;
+    width: 317px;
+    height: 201px;
+    text-align: left;
+    margin-left: 37px;
+    word-break: normal;
+    margin-right: 34px;
+}
+
+.about {
+    margin-top: -15px;
+    width: 247px;
+}
+
+.interests {
+    margin-top: -15px;
+    width: 247px;
+}
+
+h3 {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.social{
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.icons {
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    margin: 20px;
+}
